@@ -6,6 +6,7 @@ A light T3 Code theme in Mav's Brand Kit 3.0 colors. It follows the Mav Next das
 - Off-white canvas with a faint dot grid.
 - Mav Lime accent with Ink text on it.
 - Electric Violet for focus rings and links.
+- On Ink surfaces (the user bubble, tooltips) links are Mav Lime and text is off-white. Nothing is violet on Ink.
 - Cards, the composer, and popups get an Ink border and a hard Ink shadow.
 - The chat area tiles the Mav logo pattern from the Next dashboard.
 
